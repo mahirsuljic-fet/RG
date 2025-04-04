@@ -6,6 +6,10 @@ Profesorove prezentacije iz predmeta.
 ### [Vježbe](./Vjezbe)
 Kod i primjeri sa vježbi.
 
+### YouTube
+- [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+- [Linear Algebra for Computer Scientists](https://www.youtube.com/playlist?list=PLTd6ceoshprfZs1VIzGHDt-MYgVewC5tc)
+
 ### [Skripta osnova/cheatsheet](./Skripta_osnova.pdf)
 
 ### [Java alat](https://github.com/mahirsuljic-fet/RS/tree/main/Random/RacunarskaGrafika)
