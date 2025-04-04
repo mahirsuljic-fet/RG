@@ -7,8 +7,15 @@ Profesorove prezentacije iz predmeta.
 Kod i primjeri sa vježbi.
 
 ### YouTube
+#### Playliste
 - [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - [Linear Algebra for Computer Scientists](https://www.youtube.com/playlist?list=PLTd6ceoshprfZs1VIzGHDt-MYgVewC5tc)
+#### Najbitniji videi
+- [Transformation Matrices](https://www.youtube.com/watch?v=Cb4aoihvh-o&list=PLTd6ceoshprfZs1VIzGHDt-MYgVewC5tc&index=13)
+- [3D Transformation Matrices](https://www.youtube.com/watch?v=G25aT8VFsNI&list=PLTd6ceoshprfZs1VIzGHDt-MYgVewC5tc&index=14)
+- [Linear transformations and matrices](https://www.youtube.com/watch?v=kYB8IZa5AuE&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=3)
+- [Matrix multiplication as composition](https://www.youtube.com/watch?v=XkY2DOUCWMU&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=4)
+
 
 ### [Skripta osnova/cheatsheet](./Skripta_osnova.pdf)
 
