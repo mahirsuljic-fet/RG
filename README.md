@@ -19,6 +19,21 @@ Kod i primjeri sa vježbi.
 
 ### [Skripta osnova/cheatsheet](./Skripta_osnova.pdf)
 
+### Instalacija OpenGL (Linux)
+Prvo je potrebno instalirati sljedeće pakete:
+``` bash
+sudo apt install mesa-common-dev libgl1-mesa-dev libglu1-mesa-dev freeglut3-dev
+```
+Nakon toga se može koristiti OpenGL.
+OpenGL headeri se (po default-u) nalaze u direktoriji `/usr/include/GL/` uključuju pomoću `#include <GL/ime_headera.h>`.
+
+Pri kompajliranju mora se linkati OpenGL koristeći sljedeće kompajler (gcc) argumente: `-lGL -lGLU -lglut`.
+
+Primjer kompajliranja c++ programa *"test"* koji koristi OpenGl:
+```bash
+g++ test.cpp -o test -lGL -lGLU -lglut
+```
+
 ### [Java alat](https://github.com/mahirsuljic-fet/RS/tree/main/Random/RacunarskaGrafika)
 Ovo je manji alat koji sam napisao u Javi u sklopu predmeta [razvoj softvera](https://github.com/mahirsuljic-fet/RS).
 Alat se sastoji od nekoliko klasa od kojih je (za korištenje) najbitnija `CoordinateSystem2D`.
